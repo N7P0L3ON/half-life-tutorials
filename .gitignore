@@ -1,0 +1,36 @@
+*.obj
+*.cod
+*.sbr
+*.ipch
+*.exp
+*.idb
+*.bsc
+*.lastbuildstate
+*.tlog
+*.pdb
+*.opendb
+*.pdb
+*.suo
+*.user
+.\projects\vs2010\Debug\client\int\*.*
+.\projects\vs2010\Debug\server\int\*.*
+*.log
+*.dll
+*.asm
+*.pdb
+*.suo
+*db
+*.ilk
+*.enc
+*.lib
+*.bak
+*.psess
+*.vspx
+*.mdmp
+*.ncb
+*.opt
+*.plg
+*.sdf
+FlatLine Arena.sdf
+FlatLine Arena.opensdf
+FlatLine Arena.sdf
